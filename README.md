@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About
+## About Me
 Majoir in Political Science & Applied Statistics since 2015.  
 Interested in Data Analysis.  
 Able to use  
