@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About
 Majoir in Political Science & Applied Statistics since 2015.  
 Interested in Data Analysis.  
-Able to use
+Able to use  
 My writings are in [seunghunii's tistory](https://seunghuni96.tistory.com/)
 
 ## Github Status
