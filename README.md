@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghunii&layout=compact" alt="seunghuni language">
 </a>
 <a href="https://github.com/seunghunii/seunghunii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="seunghuni language">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seunghunii&show_icons=true&theme=tokyonight" alt="seunghuni language">
 </a>
