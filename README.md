@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About
-Majoir in Political Science % Applied Statistics
+Majoir in Political Science & Applied Statistics since 2015
+Interested in Data Analysis
+Able to use
 
 ## Github Status
 <a href="https://github.com/seunghunii/seunghunii">
