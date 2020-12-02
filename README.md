@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About
+Majoir in Political Science % Applied Statistics
 
-## github status
+## Github Status
 <a href="https://github.com/seunghunii/seunghunii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghunii&hide=html,scss,cuda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=TIL" alt="seunghuni language">
 </a>
