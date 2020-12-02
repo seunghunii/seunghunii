@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/seunghunii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghunii&layout=compact" alt="seunghunuu">
 </a>
-[![seunghunii's repo language](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghunii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![seunghunii's github stats](https://github-readme-stats.vercel.app/api?username=seunghunii&show_icons=true&theme=dark)
