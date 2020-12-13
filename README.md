@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 Majoir in Political Science & Applied Statistics since 2015~  
 Interested in Data Analysis.  
-Able to use SQL,R,Python,Linux(Ubuntu),AWS
+Able to use SQL,R,Python,Linux(Ubuntu),AWS  
 My writings are in [seunghunii's tistory](https://seunghuni96.tistory.com/)
 
 ## Github Status
