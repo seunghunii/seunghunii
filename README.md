@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghunii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 Majoir in Political Science & Applied Statistics since 2015~  
 Interested in Data Analysis.  
-Able to use SQL,R,Python,Linux(Ubuntu),AWS  
+Able to use SQL(SQLD),R,Python,Linux(Ubuntu),AWS  
 My writings are in [seunghunii's tistory](https://seunghuni96.tistory.com/)
 
 ## Github Status
