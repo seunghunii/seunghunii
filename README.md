@@ -20,7 +20,7 @@ Majoir in Political Science & Applied Statistics since 2015.03~2021.08
 Interested in Data Analysis.  
 Able to use SQL(SQLD),R,Python,Tableau,Linux(Ubuntu),AWS  
 My writings are in [seunghunii's tistory](https://seunghuni96.tistory.com/)   
-My Tableau Dashboard Works are in [seunghunii's Tableau Public](https://public.tableau.com/app/profile/.38415209)
+My Tableau Dashboard Works are in [seunghunii's Tableau Public](https://public.tableau.com/app/profile/.38415209)   
 My Notion Resume is in [seunghunii's resume](https://dorian-anteater-2b6.notion.site/Resume-eed572d5205a4ba5b5df61c36b3d8bb6)
 
 ## Github Status
